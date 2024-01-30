@@ -2,6 +2,13 @@
 
 Este projeto consiste em um jogo de xadrez desenvolvido em Java, explorando diversos conceitos fundamentais de Programação Orientada a Objetos (OOP) e Estruturas de Dados.
 
+## Demonstração do Projeto
+Para uma visualização mais detalhada e uma demonstração prática do projeto, confira o vídeo disponível em meu perfil do LinkedIn. O vídeo apresenta o funcionamento do jogo de xadrez desenvolvido em Java, destacando a aplicação dos conceitos fundamentais de Programação Orientada a Objetos (OOP) e Estruturas de Dados.
+
+[Assista ao Vídeo no LinkedIn](https://www.linkedin.com/posts/matheus-menezes-9774b61a3_publicando-meu-projeto-desenvolvido-em-java-activity-6995542311438831616-bnOm?utm_source=share&utm_medium=member_desktop)
+
+Fique à vontade para explorar e compartilhar suas impressões sobre o projeto. Estou à disposição para responder a eventuais perguntas ou fornecer mais informações sobre a implementação.
+
 ## Tópicos de OOP/Técnicas Utilizadas:
 
 - **Encapsulamento/Modificadores de Acesso:** Utilização de encapsulamento para controlar o acesso aos membros da classe, garantindo a integridade dos dados.
